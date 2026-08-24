@@ -1,0 +1,160 @@
+﻿SAKTHIPRIYA 
+FULL STACK SOFTWARE DEVELOPER| REACT.JS | NODE.JS | TYPESCRIPT
+
+    6374751849        sakthipriyapandiarajan@outlook.com        Sivakasi        www.linkedin.com/in/sakthipriyap
+
+PROFESSIONAL SUMMARY
+Full Stack Software Engineer with 3.5+ years of experience developing scalable web applications
+and backend services using React.js, Node.js, TypeScript, Python, PostgreSQL, and AWS. 
+Experienced in building REST APIs, microservices, real-time applications, cloud-native services,
+third-party integrations, and AI-powered automation solutions.
+Proven experience modernizing legacy applications, optimizing database performance,
+implementing asynchronous processing, and delivering enterprise healthcare platforms.
+
+PROFESSIONAL EXPERIENCE
+Software Developer, Trio-S Software Consultancy Pvt.ltd - Virudhunagar Feb 2023 - Present
+
+Developed and maintained scalable full-stack applications using React.js, Node.js, Python,
+PostgreSQL, and AWS for enterprise healthcare workflows.
+Designed REST APIs, microservices, authentication workflows, third-party integrations, and
+real-time communication features.
+Implemented AWS SQS-based asynchronous processing to improve scalability, reliability, and
+workload distribution.
+Developed AI-powered automation solutions using MCP, Claude, and ElevenLabs for context-
+aware business workflows.
+
+TECHNICAL SKILLS
+Frontend: React.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS, MUI                                 
+Backend: Node.js, Express.js, Python, Fast API, REST APIs, Socket.IO, Web Sockets, gRPC, 
+
+                       Microservices
+Databases: PostgreSQL, MySQL, MongoDB, Redis, SQL
+Cloud & DevOps: AWS Lambda, SQS, S3, EC2, RDS, EBS, CloudWatch, Docker, CI/CD, Git
+AI & Automation: MCP, Claude AI, AI Agents, Eleven Labs, Image Processing, Vertex AI
+Integrations : Google Drive API, OAuth 2.0, Google Apps Script, Exotel, Fonada, Gupshup
+
+PROJECTS
+Healthcare Document Management System |  React.js, Node.js, PostgreSQL, AWS
+
+Designed and developed a multi-portal healthcare platform (CRM, Doctor, Nurse, and Client)
+to digitize and centralize prescription management across multiple stakeholders.
+Developed scalable REST APIs, role-based access control, real-time document tracking, and
+optimized PostgreSQL queries to improve application performance and reliability.
+Modernized the application into a microservices architecture, enhancing scalability,
+maintainability, and deployment efficiency across cloud environments.
+
+
+
+Google Drive Automation & GCP Integration |  Google Drive API , OAuth 2.0, Apps Script , GCP
+Developed enterprise-grade Google Drive integrations using OAuth 2.0, enabling secure
+access to both personal and shared drives for automated document management.
+Created Google Apps Scripts to detect duplicate and previously processed files across
+multiple Drive folders, significantly reducing redundant processing.
+Implemented event-driven Apps Script triggers to monitor folder activities and automatically
+invoke backend APIs, enabling real-time document synchronization.
+
+IVR & Healthcare Communication Platform |  Socket.IO , Exotel , Fonada , Gupshup , Sparc
+Integrated enterprise communication platforms including Exotel, Fonada, Gupshup, and
+Sparc to automate patient engagement through voice calls, WhatsApp messaging, and IVR-
+based healthcare workflows.
+Developed configurable bot flows, WhatsApp Business templates, IVR call routing, and
+campaign automation to streamline patient communication and reduce manual operational
+effort.
+Designed an intelligent Auto Dialer system with real-time Socket.IO updates, automatically
+allocating patient calls to doctors and enabling seamless call-center operations through
+campaign-based dialing.
+
+AWS Infrastructure Modernization | AWS (Lambda, SQS, EBS, RDS), Node.js, Python,
+Microservices 
+
+Modernization of legacy Node.js APIs by upgrading runtime versions and migrating
+monolithicservices to serverless AWS Lambda architecture.
+Optimised PostgreSQL database performance through query tuning and indexing, reducing
+API response times by approximately 40%.
+Implemented asynchronous processing using AWS SQS to improve system scalability,
+reliability, and workload distribution.
+Automated deployment pipelines for Node.js and Python services, reducing deployment
+effort and improving release consistency.
+
+Medicine Record Management System | Redis, AWS, Valkey
+Developed a centralised medication data management system using Redis on AWS to
+improve data retrieval speed and reduce database dependencies.
+Implemented automated synchronization services to fetch, update, and remove outdated
+medicine records while maintaining cache consistency.
+Optimized caching strategies to significantly reduce database load and improve application
+responsiveness.
+
+PGP Secure File Exchange Platform | Python, Fast API, PGP Encryption
+Developed REST APIs using FastAPI to perform secure PGP-based file encryption and
+decryption for enterprise file exchange workflows.
+Built encryption services supporting secure data sharing with Amazon-integrated systems
+while ensuring compliance with enterprise security standards.
+Automated secure file processing pipelines, eliminating manual encryption tasks and
+improving operational reliability.
+
+
+
+Intelligent Prescription Image Processing | Python, OpenCV, Python Shell, EBS
+Developed Python-based image processing modules to automatically detect and crop
+prescription images, improving OCR readiness.
+Integrated Python image-processing workflows with Node.js APIs using Python Shell for
+seamless backend communication.
+Enhanced document quality through automated image preprocessing techniques, resulting in
+improved OCR accuracy.
+Deployed image-processing services in AWS environments, ensuring reliable and scalable
+execution for healthcare applications.
+
+AI Agent Development | MCP, Claude, Node JS, Postgresql, ElevanLabs
+Developed AI agents using Model Context Protocol (MCP) to integrate LLMs with enterprise
+tools, databases, and backend services.
+Built a voice AI assistant using ElevenLabs Conversational AI for real-time voice interactions
+and automated business workflows.
+Integrated AI agents with PostgreSQL databases and backend APIs to enable context-aware
+responses and dynamic data retrieval.
+
+Reusable NPM Package Development | React JS, Typescript, NPM
+Designed and developed reusable React component libraries and private NPM packages to
+standardize UI development across multiple enterprise applications.
+Published version-controlled packages with comprehensive documentation and semantic
+versioning to simplify maintenance and adoption.
+Reduced duplicate development efforts by promoting reusable architecture and consistent
+component implementation.
+Collaborated with development teams to integrate shared packages, improving development
+speed and code maintainability.
+
+Healthcare Chrome Extension | JavaScript, Chrome Extension API, REST APIs
+Engineered a sophisticated browser extension with offline capabilities utilizing Service Workers
+and Indexed DB for local data persistence.
+Implemented real-time video processing with custom filters for prescription image
+enhancement, improving OCR accuracy by optimizing contrast and clarity.
+Developed background workers for efficient data synchronization and processing, ensuring
+seamless operation during network interruptions.
+Integrated WebRTC for direct camera access and real-time image processing
+
+Real-Time Web Chat Application | React.js, Node.js, Socket.io, gRPC, MongoDB, Microservices
+
+Developed a real-time web chat application supporting one-to-one messaging using Socket.io
+for low-latency, bi-directional communication. 
+Implemented gRPC-based service communication to handle messaging and user-related
+operations, improving internal service interaction efficiency. 
+Designed and integrated MongoDB for storing user data and chat messages, ensuring fast
+retrieval and basic data consistency.
+
+
+
+EDUCATION
+Bachelor of Engineering in Electronics & Communication  Sep 2019 - April 2023
+AAA college of Engineering and Technology, Sivakasi.
+
+Affiliated with Anna University, Chennai.
+
+ADDITIONAL INFORMATION
+Languages: English, Tamil
+Certifications: Completed AWS Cloud Foundations course on Coursera 
+Awards/Activities:
+Achieved 91% overall academic score and consistently ranked within the Top 3 of the
+Electronics and Communication Engineering department (2019–2023).
+Recognised for critical problem-solving abilities and dedication in software development
+projects - Professional Recognition
+Recognized as the Best Performer for outstanding performance, consistent delivery, and
+contribution to project success during FY 2025–26.
